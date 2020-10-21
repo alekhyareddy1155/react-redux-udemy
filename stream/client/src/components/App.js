@@ -26,4 +26,3 @@ const App=()=> {
 export default App
 
 
-// client id: 968929117706-87htpbo1n6h3mhmhep0idr3nvvoeh8ol.apps.googleusercontent.com
